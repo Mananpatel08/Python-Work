@@ -1,6 +1,13 @@
 # GestureGo: Gesture-Based Controllers
 
+# GestureGo
+
 **GestureGo** is an innovative project designed to control media playback, presentation slides, and mouse movement using hand gestures. The project utilizes **MediaPipe** for hand gesture recognition and integrates it with **PyAutoGUI** and **Pynput** to control various applications on the computer. 
+
+This is my **last year group project** from college, showcasing the application of computer vision and gesture recognition in practical use cases. With **GestureGo**, users can interact with their devices through simple hand gestures, offering a more intuitive and hands-free experience.
+
+Feel free to explore, modify, and contribute to the project. Contributions and suggestions are always welcome!
+
 
 ## Project Overview
 
